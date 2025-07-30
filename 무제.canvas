@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"39cf0c72a57d4254","type":"text","text":"**Clothes**\n- `calculatePrice()`","x":140,"y":300,"width":240,"height":120,"color":"2"},
+		{"id":"02f3e05903e4c006","type":"text","text":"**Product**\n- `calculatePrice()`","x":140,"y":100,"width":240,"height":140},
+		{"id":"3a857f547a1149dd","type":"text","text":"**`Clothes` 인스턴스 2**","x":-189,"y":330,"width":250,"height":60},
+		{"id":"b86cd1b042da2b10","type":"text","text":"Alcohol","x":110,"y":-183,"width":126,"height":60},
+		{"id":"e0c96e06c952bb61","type":"text","text":"Electronics","x":-90,"y":-183,"width":151,"height":60},
+		{"id":"0a5fe46f49de3eb0","type":"text","text":"Clothes","x":-260,"y":-183,"width":120,"height":60},
+		{"id":"c44feef2f05977ae","type":"text","text":"Product","x":-77,"y":-360,"width":126,"height":60},
+		{"id":"f21bda632f7d98a9","type":"text","text":"**product**","x":-420,"y":330,"width":140,"height":60},
+		{"id":"bb3705cef6acfff9","type":"text","text":"**Object**","x":140,"y":0,"width":240,"height":60},
+		{"id":"dddad6877497b01a","type":"text","text":"**`Clothes` 인스턴스 1**","x":-189,"y":240,"width":250,"height":60},
+		{"id":"40ecb97baaa14b56","type":"text","text":"**`Product` 인스턴스 1**","x":-189,"y":110,"width":250,"height":60},
+		{"id":"60060cf7287ef536","type":"text","text":"**self**","x":-134,"y":420,"width":140,"height":60},
+		{"id":"8effbba0deaa4eec","type":"text","text":"**clothes**","x":1160,"y":-330,"width":160,"height":60},
+		{"id":"bee5de4d7767fff7","type":"text","text":"**electronics**","x":1160,"y":-260,"width":160,"height":60},
+		{"id":"7c3840e555194523","type":"text","text":"**alcohol**","x":1160,"y":-190,"width":160,"height":60},
+		{"id":"ea0a8573a71180e8","type":"text","text":"### purchasable\n- `calculatePrice()`","x":760,"y":-287,"width":260,"height":115,"color":"4"},
+		{"id":"a1560b73bb78579a","type":"text","text":"**shoppingCart**","x":500,"y":-259,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"6607e2ebfafbb1dd","fromNode":"0a5fe46f49de3eb0","fromSide":"top","toNode":"c44feef2f05977ae","toSide":"bottom"},
+		{"id":"3e10e6f889065faf","fromNode":"e0c96e06c952bb61","fromSide":"top","toNode":"c44feef2f05977ae","toSide":"bottom"},
+		{"id":"37dbc6413bb152ee","fromNode":"b86cd1b042da2b10","fromSide":"top","toNode":"c44feef2f05977ae","toSide":"bottom"},
+		{"id":"c7d604f8ffc1a2f1","fromNode":"f21bda632f7d98a9","fromSide":"right","toNode":"3a857f547a1149dd","toSide":"left"},
+		{"id":"47f50c0881dcb890","fromNode":"3a857f547a1149dd","fromSide":"right","toNode":"39cf0c72a57d4254","toSide":"left"},
+		{"id":"a469dbda4b806d12","fromNode":"39cf0c72a57d4254","fromSide":"top","toNode":"02f3e05903e4c006","toSide":"bottom"},
+		{"id":"a6d7e9f48031fc06","fromNode":"02f3e05903e4c006","fromSide":"top","toNode":"bb3705cef6acfff9","toSide":"bottom"},
+		{"id":"a3581b1566af83a5","fromNode":"dddad6877497b01a","fromSide":"right","toNode":"39cf0c72a57d4254","toSide":"left"},
+		{"id":"a4d6852f7d813b2d","fromNode":"40ecb97baaa14b56","fromSide":"right","toNode":"02f3e05903e4c006","toSide":"left"},
+		{"id":"d4c29efb6f6de956","fromNode":"60060cf7287ef536","fromSide":"top","toNode":"3a857f547a1149dd","toSide":"bottom"},
+		{"id":"278b2222450492c9","fromNode":"ea0a8573a71180e8","fromSide":"left","toNode":"a1560b73bb78579a","toSide":"right"},
+		{"id":"f8327fac18ab0b72","fromNode":"8effbba0deaa4eec","fromSide":"left","toNode":"ea0a8573a71180e8","toSide":"right"},
+		{"id":"1eb5f896f9b0c53a","fromNode":"bee5de4d7767fff7","fromSide":"left","toNode":"ea0a8573a71180e8","toSide":"right"},
+		{"id":"31659df99025ff4c","fromNode":"7c3840e555194523","fromSide":"left","toNode":"ea0a8573a71180e8","toSide":"right"}
+	]
+}

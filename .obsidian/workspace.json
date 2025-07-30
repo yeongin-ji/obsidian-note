@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "0c248d8c4ee3abb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bda7bc5db597ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22955cd4d15653dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "8c7dd3e108d39633",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "무제.canvas",
+                "viewState": {
+                  "x": 450,
+                  "y": 60,
+                  "zoom": -0.8484492329549211
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "무제"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "823f595616730584",
+    "type": "split",
+    "children": [
+      {
+        "id": "3107c95266651df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2698cbf25b1cdd12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "4872afbde75fc0ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "37ad2dd01f41f810",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aabc90992b3c358f",
+    "type": "split",
+    "children": [
+      {
+        "id": "241c62cab51e959d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50133acd6678454a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Organize ✒️/2-1. Project/GDGoC 홈페이지/GDGoC 홈페이지.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "GDGoC 홈페이지의 백링크"
+            }
+          },
+          {
+            "id": "f88751532970cd00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Organize ✒️/2-1. Project/GDGoC 홈페이지/GDGoC 홈페이지.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "GDGoC 홈페이지의 나가는 링크"
+            }
+          },
+          {
+            "id": "ed6b6a95a60071ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55ab85afb6db93dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새 고유 노트 생성": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "22955cd4d15653dd",
+  "lastOpenFiles": [
+    "1. Capture 📷/무제.md",
+    "2. Organize ✒️/2-1. Project/MyGoChat/고루틴(goroutine) 채팅 서버 구조.canvas",
+    "2. Organize ✒️/2-3. Resource/Mathmatics/LaTex 기본 문법.md",
+    "2. Organize ✒️/2-3. Resource/Computer Science/Operating System/암묵적 스레딩 모델.canvas",
+    "2. Organize ✒️/2-3. Resource/Computer Science/Operating System/시스템 콜(System Call).md",
+    "1. Capture 📷/사회적기업 창업 로드맵.md",
+    "1. Capture 📷/airflow 스터디 2주차.md",
+    "1. Capture 📷/Go 동시성 패턴 메모.md",
+    "1. Capture 📷/Goroutine.canvas",
+    "2. Organize ✒️/2-2. Area/가치관/만다라트.canvas",
+    "Attachments/Pasted image 20250714203804.png",
+    "Attachments/Pasted image 20250714200807.png",
+    "2. Organize ✒️/2-3. Resource/Computer Science/Operating System/인터럽트(Interrupt)와 인터럽트 서비스 루틴(Interrupt Service Routine).md",
+    "2. Organize ✒️/2-3. Resource/Mathmatics/Linear Algebra/Linear Algebra.md",
+    "2. Organize ✒️/2-3. Resource/Android/자동 테스트 작성.md",
+    "2. Organize ✒️/2-3. Resource/Android/Android.md",
+    "2. Organize ✒️/2-3. Resource/Android/App Architecture.md",
+    "무제.canvas",
+    "무제 1.canvas",
+    "무제 2.canvas",
+    "Excalidraw/Drawing 2025-06-23 09.35.31.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-23 09.34.47.excalidraw.md",
+    "Excalidraw",
+    "Attachments/t.png",
+    "Attachments/Pasted image 20250620195838.png",
+    "Attachments/Pasted image 20250619155905.png",
+    "Attachments/Pasted image 20250619155901.png",
+    "Attachments/Pasted image 20250619154827.png",
+    "Attachments/Pasted image 20250619154728.png",
+    "Attachments/Pasted image 20250619154657.png",
+    "Attachments/Pasted image 20250619154629.png",
+    "2. Organize ✒️/2-2. Area/일기/250613 긍정챌린지.md",
+    "2. Organize ✒️/2-2. Area/일기/250612 긍정챌린지.md",
+    "2. Organize ✒️/2-1. Project/MyGoChat",
+    "1. Capture 📷/모프 팀플 아이디어.md",
+    "1. Capture 📷/와커톤 참가자 질문 메모.md",
+    "2. Organize ✒️/2-2. Area/PM/RoutinA 정보 구조도.canvas",
+    "2. Organize ✒️/2-3. Resource/Data Science/상관 관계 (Correlation).md",
+    "1. Capture 📷/저장소 계층 구조(Storage Hierarchy).md",
+    "2. Organize ✒️/2-4. Archive/GDGoC 홈페이지/GDGoC 홈페이지.md",
+    "2. Organize ✒️/2-4. Archive/GDGoC 홈페이지/GDGoC 홈페이지 레퍼런스.md",
+    "1. Capture 📷/GDGoC 홈페이지 정보 구조.md",
+    "2. Organize ✒️/2-2. Area/일기/250611 긍정 챌린지.md",
+    "2. Organize ✒️/2-2. Area/일기/250610 긍정 챌린지.md",
+    "2. Organize ✒️/2-2. Area/일기/250609 긍정 챌린지.md",
+    "2. Organize ✒️/2-3. Resource/Programming Paradigm/Object-Oriented Programming",
+    "2. Organize ✒️/2-3. Resource/Programming Paradigm",
+    "2. Organize ✒️/2-3. Resource/Mathmatics/Calculus",
+    "2. Organize ✒️/2-3. Resource/Mathmatics/무제/desktop.ini",
+    "2. Organize ✒️/2-3. Resource/Mathmatics/Linear Algebra",
+    "2. Organize ✒️/2-3. Resource/Mathmatics",
+    "2. Organize ✒️/2-3. Resource/Computer Science/Data Science.zip",
+    "2. Organize ✒️/2-3. Resource/AI/ML/DL",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

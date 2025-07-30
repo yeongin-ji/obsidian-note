@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ef03d0e936e8662d","type":"group","x":-280,"y":-340,"width":340,"height":340,"label":"go application"},
+		{"id":"d95a6cca203724f2","type":"text","text":"","x":-57,"y":-465,"width":250,"height":60},
+		{"id":"490d8af2cc906324","type":"file","file":"Attachments/Pasted image 20250620195838.png","x":-840,"y":-200,"width":317,"height":400},
+		{"id":"f7be4fcf122817c2","type":"text","text":"**Go Runtime**","x":-240,"y":-100,"width":260,"height":60},
+		{"id":"e18ae60190e1c801","type":"text","text":"**Application code**","x":-240,"y":-300,"width":260,"height":60}
+	],
+	"edges":[
+		{"id":"cb9805d2afbce3ff","fromNode":"e18ae60190e1c801","fromSide":"bottom","toNode":"f7be4fcf122817c2","toSide":"top","label":"Goroutine 생성/ System call 실행 등"}
+	]
+}
